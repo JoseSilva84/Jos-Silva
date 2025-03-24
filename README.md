@@ -1,6 +1,6 @@
 # Olá! Eu sou o José Silva 👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Bem-vindo+ao+meu+perfil+GitHub!)
+![JoseSilva](Perfil.jpg)
 
 ## Sobre Mim
 
@@ -47,8 +47,8 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 
 ## 📫 Como Me Encontrar
 
-- **LinkedIn:** [José Silva](https://www.linkedin.com/in/jos%C3%A9-silva-dev)
-
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/jos%C3%A9-silva-dev)
+- **Redes:** [Redes](https://linktr.ee/JoseSilva84)
 ---
 
 
