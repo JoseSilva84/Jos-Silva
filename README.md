@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em linguagens como C e Python. :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, com foco em linguagens como C (Sistema embarcado), Python (Análise de dados) e Javascript (Desenvolvedor fullstack). :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
 
 - 🎓 **Educação:** :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
 - 💼 **Experiência:** :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
@@ -48,9 +48,8 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
 ## 📫 Como Me Encontrar
 
 - **LinkedIn:** [José Silva](https://www.linkedin.com/in/jos%C3%A9-silva-dev)
-- **E-mail:** [jose.silva@email.com](mailto:jose.silva@email.com)
 
 ---
 
-*Este `README.md` foi gerado com a ajuda de um assistente de linguagem AI.*
+
 
